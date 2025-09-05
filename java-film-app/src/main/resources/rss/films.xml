@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Film Feed</title>
+
+        <item>
+            <title>Interstellar</title>
+            <description>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</description>
+            <year>2014</year>
+            <image>assets/interstellar.jpg</image>
+        </item>
+
+        <item>
+            <title>Inception</title>
+            <description>A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea.</description>
+            <year>2010</year>
+            <image>assets/inception.jpg</image>
+        </item>
+
+        <item>
+            <title>The Matrix</title>
+            <description>A computer hacker learns about the true nature of his reality and his role in the war against its controllers.</description>
+            <year>1999</year>
+            <image>assets/matrix.jpg</image>
+        </item>
+
+        <item>
+            <title>Avatar</title>
+            <description>A paraplegic Marine is dispatched to the moon Pandora on a unique mission but becomes torn between following orders and protecting an alien civilization.</description>
+            <year>2009</year>
+            <image>assets/avatar.jpg</image>
+        </item>
+
+        <item>
+            <title>Dune</title>
+            <description>Paul Atreides leads nomadic tribes in a battle to control the desert planet Arrakis.</description>
+            <year>2021</year>
+            <image>assets/dune.jpg</image>
+        </item>
+
+        <item>
+            <title>Tenet</title>
+            <description>Armed with only one word, a CIA operative must manipulate the flow of time to prevent World War III.</description>
+            <year>2020</year>
+            <image>assets/tenet.jpg</image>
+        </item>
+
+        <item>
+            <title>Blade Runner 2049</title>
+            <description>A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard.</description>
+            <year>2017</year>
+            <image>assets/blade_runner.jpg</image>
+        </item>
+
+        <item>
+            <title>Oppenheimer</title>
+            <description>The story of J. Robert Oppenheimer and his role in the development of the atomic bomb during World War II.</description>
+            <year>2023</year>
+            <image>assets/oppenheimer.jpg</image>
+        </item>
+
+        <item>
+            <title>Barbie</title>
+            <description>Barbie suffers a crisis that leads her to question her world and her existence.</description>
+            <year>2023</year>
+            <image>assets/barbie.jpg</image>
+        </item>
+
+        <item>
+            <title>Mission: Impossible – Fallout</title>
+            <description>Ethan Hunt and his IMF team must track down stolen plutonium while being monitored by a CIA agent.</description>
+            <year>2018</year>
+            <image>assets/mission_impossible.jpg</image>
+        </item>
+
+        <item>
+            <title>Joker</title>
+            <description>In Gotham's fractured society, Arthur Fleck transforms into the infamous criminal mastermind known as the Joker.</description>
+            <year>2019</year>
+            <image>assets/joker.jpg</image>
+        </item>
+
+    </channel>
+</rss>
